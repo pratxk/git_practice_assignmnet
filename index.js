@@ -12,8 +12,8 @@ function isPrime(num) {
 
     }
 
-    return false; 
-    //mistake make this true
+    return true; 
+    
 
 }
 
