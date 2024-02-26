@@ -12,7 +12,7 @@ function isPrime(num) {
 
     }
 
-    return false; 
+    return true; ""
     //mistake make this true
 
 }
